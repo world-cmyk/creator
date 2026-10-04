@@ -58,7 +58,7 @@ jobs:
           echo "Start Hamburg: $(TZ=Europe/Berlin date +'%Y-%m-%d %H:%M:%S %Z')"
           echo "======================================"
 
-          python3 code.py
+          python3 source/code.py
 
       - name: Zeitpunkt speichern
         run: |

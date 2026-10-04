@@ -12,7 +12,7 @@ import requests
 # ============================================================
 
 PLAYLIST_FILE = os.path.join(
-    "2026",
+    "actually",
     "playlist.m3u",
 )
 

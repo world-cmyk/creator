@@ -3,7 +3,6 @@ name: Alle Sender aktualisieren
 on:
   schedule:
     - cron: '*/5 * * * *'
-      timezone: "Europe/Berlin"
   workflow_dispatch:
 
 concurrency:
@@ -18,6 +17,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Trigger anzeigen
+        run: |
+          echo "======================================"
+          echo "WORKFLOW TRIGGER"
+          echo "======================================"
+          echo "Event:       ${{ github.event_name }}"
+          echo "Run number:  ${{ github.run_number }}"
+          echo "Run ID:      ${{ github.run_id }}"
+          echo "Actor:       ${{ github.actor }}"
+          echo "Ref:         ${{ github.ref }}"
+          echo "UTC:         $(date -u)"
+          echo "Berlin:      $(TZ=Europe/Berlin date)"
+          echo "======================================"
+
       - name: Repository klonen
         uses: actions/checkout@v4
         with:
@@ -48,21 +61,6 @@ jobs:
       - name: Streams-Ordner erstellen
         run: |
           mkdir -p streams
-
-      - name: Trigger anzeigen
-        run: |
-          echo "======================================"
-          echo "WORKFLOW TRIGGER"
-          echo "======================================"
-          echo "Event:       ${{ github.event_name }}"
-          echo "Run number:  ${{ github.run_number }}"
-          echo "Run ID:      ${{ github.run_id }}"
-          echo "Actor:       ${{ github.actor }}"
-          echo "Ref:         ${{ github.ref }}"
-          echo "SHA:         ${{ github.sha }}"
-          echo "UTC:         $(date -u)"
-          echo "Berlin:      $(TZ=Europe/Berlin date)"
-          echo "======================================"
 
       - name: Sender-Scanner starten
         run: |
@@ -123,7 +121,7 @@ jobs:
       - name: Änderungen committen
         if: steps.changes.outputs.changed == 'true'
         run: |
-          git commit -m "Update $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git commit -m "Sender aktualisiert $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
 
       - name: Zu GitHub übertragen
         if: steps.changes.outputs.changed == 'true'

@@ -2,7 +2,7 @@ name: Alle Sender aktualisieren
 
 on:
   schedule:
-    - cron: '5,19,37,52 * * * *'
+    - cron: '*/5 * * * *'
       timezone: "Europe/Berlin"
   workflow_dispatch:
 
@@ -48,6 +48,21 @@ jobs:
       - name: Streams-Ordner erstellen
         run: |
           mkdir -p streams
+
+      - name: Trigger anzeigen
+        run: |
+          echo "======================================"
+          echo "WORKFLOW TRIGGER"
+          echo "======================================"
+          echo "Event:       ${{ github.event_name }}"
+          echo "Run number:  ${{ github.run_number }}"
+          echo "Run ID:      ${{ github.run_id }}"
+          echo "Actor:       ${{ github.actor }}"
+          echo "Ref:         ${{ github.ref }}"
+          echo "SHA:         ${{ github.sha }}"
+          echo "UTC:         $(date -u)"
+          echo "Berlin:      $(TZ=Europe/Berlin date)"
+          echo "======================================"
 
       - name: Sender-Scanner starten
         run: |

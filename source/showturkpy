@@ -7,7 +7,7 @@ from urllib.parse import urljoin
 
 
 PAGE_URL = "https://www.showturk.com.tr/canli-yayin"
-OUTPUT = "output/showturk.m3u8"
+OUTPUT = "streams/showturk.m3u8"
 
 HEADERS = {
     "User-Agent": (

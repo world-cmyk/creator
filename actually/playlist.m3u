@@ -24,6 +24,9 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
 https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1791243373&st=0aTEm3CtJYgli5lh8L4Yfw&tv=1
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOWTÜRK
+https://raw.githubusercontent.com/world-cmyk/creator/refs/heads/main/streams/showturk.m3u
+
 #EXTINF:-1 tvg-id="StarHD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png", STAR
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8 
 

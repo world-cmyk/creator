@@ -2532,3 +2532,17 @@ http://95.173.188.170:9898/;
 #EXTINF:-1 tvg-logo="http://www.logolynx.com/images/logolynx/18/1893f4a6975ba780487003511e42329f.jpeg", 🎶 ●| ÜLKÜ FM  
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://yayin2.yayindakiler.com:4112/;
+
+
+################################################################################
+
+#EXTINF:-1 group-title="SPOR" 
+# Ⓑ Ⓓ Ⓜ  Ⓣ  Ⓢ Ⓨ
+
+################################################################################
+
+#EXTINF:-1 group-title="⚽  SPOR" tvg-id="A.SPOR.tr" tvg-logo="https://iaspr.tmgrup.com.tr/v2/i/aspor-logo.png" tvg-name="A SPOR", a SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+
+#EXTINF:-1 group-title="⚽  SPOR" tvg-id="A.SPOR.tr" tvg-logo="https://iaspr.tmgrup.com.tr/v2/i/aspor-logo.png" tvg-name="A SPOR", a SPOR
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8

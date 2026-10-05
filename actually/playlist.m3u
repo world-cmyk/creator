@@ -19,7 +19,7 @@ https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=kUiFm-vmv9cjmLDK2hjPfA&e=
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8t0nw4bxjys2&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
 https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1791229926&st=sq9ZXPR1WNUlPWa6zcfEGw&tv=1

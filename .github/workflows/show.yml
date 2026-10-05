@@ -24,7 +24,7 @@ jobs:
 
       - name: Run ShowTurk script
         run: |
-          python3 src/showturk.py
+          python3 code/showturk.py
 
       - name: Commit & push if file changed
         run: |
@@ -32,7 +32,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           if [ -f source/showturk.m3u8 ]; then
-            git add output/showturk.m3u8
+            git add source/showturk.m3u8
 
             if git diff --cached --quiet; then
               echo "No changes to commit"

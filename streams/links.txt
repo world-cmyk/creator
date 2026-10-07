@@ -1,5 +1,5 @@
 ### NOW TV
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=z4AZsH--MkuJr5Wj_tmo9g&e=1791426859
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Z0saqIF4Iuz_lN7Fp0kJMg&e=1791428320
 
 ### SHOW TÜRK
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1791419842&st=qip5mZMt_j6NLB1jblwRKw&tv=1
+https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1791421200&st=ML108--9AzxK32uOIN985g&tv=1

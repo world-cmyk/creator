@@ -150,7 +150,7 @@ https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" tvg-name="TGRT HABER",TGRT HABER 
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-#EXTINF:-1  tvg-id="Tv100.tr" tvg-id="live" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png", tv100 
+#EXTINF:-1  tvg-id="TV.100.tr" tvg-name="tv 100 TR" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png", tv100 
 https://tv.ensonhaber.com/tv100/tv100.m3u8
 
 #EXTINF:-1 tvg-id="24.tr" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24  

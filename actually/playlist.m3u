@@ -76,15 +76,6 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 group-title="🏖 EĞLENCE " tvg-id="FILMSCREEN.INTERNATIONAL.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" , Film Screen INT
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-sinema-keyfi.png" ,SDM Sinema
-https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,SALON PREMIUM 1
-https://catcast.ismailturret.workers.dev/playercinema-premium 1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,SALON PREMIUM 2
-https://catcast.ismailturret.workers.dev/playercinema-premium2.m3u8
-
 #EXTINF:-1 group-title="🏖 EĞLENCE " tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" ,360 
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
@@ -108,6 +99,15 @@ https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3
 
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/bi_kanal_uyanik_qOT.png" ,Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-sinema-keyfi.png" ,SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,SALON PREMIUM 1
+https://catcast.ismailturret.workers.dev/playercinema-premium 1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,SALON PREMIUM 2
+https://catcast.ismailturret.workers.dev/playercinema-premium2.m3u8
 
 #EXTINF:-1 group-title="🏖 EĞLENCE "  tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tabii_-_TRT_Logo.png/500px-Tabii_-_TRT_Logo.png" ,TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
@@ -164,9 +164,6 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Bengü.Türk.TV.tr" tvg-logo="http://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK 
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-
-#EXTINF:-1 tvg-id="Haber61TV.tr@SD",Haber61 TV 
-https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QF50YJvS/neo.png",NEO HABER
 https://edge.taksimbilisim.com/neohaber/bant1/playlist.m3u8

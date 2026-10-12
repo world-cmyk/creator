@@ -13,7 +13,7 @@ https://andro.3749206.xyz/checklist/androstreamliveatv.m3u8
 #https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 
 #EXTINF:-1 tvg-id="FOX.tr" tvg-logo="https://i.ibb.co/WDfRpwV/now.jpg" , NOW TV
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=jpdP8KSNkUYhhZ9SkJu9Rw&e=1791824854
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=u_3PJrpAg3og6hCytetm9Q&e=1791827549
 
 #EXTINF:-1 tvg-id="Show.TV.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8t0nw4bxjys2&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
@@ -25,7 +25,7 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna
 #https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1791756010&st=VRvjyNqFrInChgHETg3RbQ&tv=1
 
 #EXTINF:-1 tvg-id="StarHD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png", STAR
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1791817740&st=zDVse5--6noIELyLM2gHkQ&tv=1
+https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1791820331&st=KCmX_H7V8rWs8bbWiCh8iQ&tv=1
 
 #EXTINF:-1 tvg-id="EuroStar.tr"  tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
 https://github.com/axxerg/PStream/raw/refs/heads/main/output/eurostar.m3u8

@@ -21,11 +21,8 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
 #https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOWTÜRKS
-#https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1791756010&st=VRvjyNqFrInChgHETg3RbQ&tv=1
-
 #EXTINF:-1 tvg-id="StarHD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png", STAR
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1791830369&st=rpyn2i1zRuKRTGdTSMSGiQ&tv=1
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8 
 
 #EXTINF:-1 tvg-id="EuroStar.tr"  tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
 https://github.com/axxerg/PStream/raw/refs/heads/main/output/eurostar.m3u8
@@ -41,9 +38,6 @@ http://89.187.191.41/TV8-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 #https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-
-#EXTINF:-1 tvg-name="no epg" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5924449cd6f439663be1e725", tv8.5 
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 
 #EXTINF:-1 tvg-name="no epg" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5924449cd6f439663be1e725", tv8.5 
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8

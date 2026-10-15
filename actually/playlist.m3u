@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRT_1_HD_kurumsal_logo_%282012-2021%29.png" group-title="📺 ULUSAL" ,TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRT_1_HD_kurumsal_logo_%282012-2021%29.png" group-title="📺 ULUSAL" ,TRT 1 HD
+https://ladyboy.yedektv.cfd//trt1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="TRT TÜRK"  tvg-logo="https://www.trtturk.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trtturk_logo.png",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
 

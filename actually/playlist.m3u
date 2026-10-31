@@ -130,7 +130,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_480p900000kbps/index.m3u8?st=t83_J9dBLUVhMyJ86Or5zA&e=1791032689
 
 #EXTINF:-1  tvg-name="CNN TÜRK " tvg-id="live" tvg-logo="https://i.ibb.co/LdzKYB1c/MG-6446.jpg", CNN TÜRK 
-https://www.youtube.com/watch?v=6N8_r2uwLEc
+#https://www.youtube.com/watch?v=6N8_r2uwLEc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" tvg-name="NTV" ,NTV 
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8

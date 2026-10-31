@@ -52,7 +52,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 http://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 #EXTINF:-1 tvg-id="KANAL7int.tr" tvg-logo="https://cdn.technettv.com/channel/29485/logo_256_1733831753.png"  ,KANAL 7 AVRUPA
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="no epg" tvg-id="" tvg-logo="https://kanalavrupa.tv/wp-content/uploads/2025/04/KanalAvrupaLogo.png" tvg-url="https://kanalavrupa.tv/" tvg-id="",Kanal Avrupa
 https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
